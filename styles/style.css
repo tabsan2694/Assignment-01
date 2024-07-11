@@ -27,6 +27,9 @@
 
 }
 /* text alining*/
+.text-center{
+    text-align: center;
+}
 .text-alining{
     text-align: center;
     font-size: 48px;
@@ -103,3 +106,6 @@ h5{
     color: #0D1321;
     border: #0D1321;
 }
+/* Target section */
+
+
