@@ -185,11 +185,6 @@ background-color: #f3dff0;
     background-size: cover;
     background-blend-mode: overlay;
 }
-.submit{
-    border: 2px solid red;
-    border-radius: 10px;
-
-}
 .h1{
     font-size: 32px;
     font-weight: bold ;
@@ -197,6 +192,26 @@ background-color: #f3dff0;
     text-align: center;
 
 }
+.submit{
+    background-color: rgb(253, 252, 252);
+    padding: 12px 20px;
+    font-size: 18px;
+    color: #0D1321;
+    border: #0D1321;
+    border-radius: 10px;
+
+}
+.label{
+    background-color: rgb(253, 252, 252);
+    width: 350px;
+    padding: 12px 20px;
+    font-size: 16px;
+    color: #0D1321;
+    border: #0D1321;
+    border-radius: 10px;
+
+}
+
 .lorem{
     font-size: 16px;
     color: white;
