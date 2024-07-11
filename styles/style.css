@@ -107,5 +107,48 @@ h5{
     border: #0D1321;
 }
 /* Target section */
+.targets-container{
+    display: flex;
+    gap: 24px;
+}
+.target{
+    padding: 30px;
+}
+    
+.target-title{
+    font-size: 24px;
+    font-weight: bolder;
+    color: #0D1321;
+}
+.target-description{
+    font-size: 16px;
+    font-weight: normal;
+    color: #0D1321;
+}
+.new-btn2{
+    border: none;
+    background-color: transparent;
+    
+}
+.anchor{
+    text-decoration: solid;
+
+}
+.anchor2{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.htlm{
+    background-color: #f9ebe7;
+}
+.ssc{
+    background-color: #bdb8fd;
+}
+.js{
+background-color: #f3dff0;
+}
+
+    
 
 
